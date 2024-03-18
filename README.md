@@ -1,9 +1,9 @@
 # Gemma-Model-Finetuning-Using-Lora
 Fine tuning Domain Specific dataset (Personal Dataset) on Gemma 2B Model 
 
-![Google-Gemma-900x600](https://github.com/AjayK47/Gemma-Model-Finetuning-Using-Lora/assets/88961945/766e6109-ff21-4df2-a9b5-a36bfbec028c)
+![gemma-img](https://github.com/AjayK47/Gemini-File/assets/88961945/40456066-4ad4-41d2-bd91-8771a6b51688)
 
-#### This Model is Finetuned P100 GPU , which is Freely available in Kaggle 
+#### This Model is Finetuned on a single P100 GPU , which is Freely available in Kaggle 
 
 This repository contains the code and data for fine-tuning a small language model (SLM) for the specific domain of Indian history. The project demonstrates how to adapt a pre-trained language model to better understand and generate text relevant to this historical context.
 
@@ -47,6 +47,19 @@ The project follows these key steps:
   - Evaluation and Deployment:
        - Evaluate the fine-tuned model on relevant tasks (e.g., text summarization, question answering).
        - Save and Push the model to Hugging Face.
+   
+### Future Work
+
+- Potential future directions include:
+
+     - Expanding the approach to other domains and languages.
+
+     - Exploring alternative compact language models.
+
+     - Developing techniques to understand the model's reasoning and decision-making processes.
+ 
+### Contribution
+- Contributions to this project are welcome!
 
 ### License
 
