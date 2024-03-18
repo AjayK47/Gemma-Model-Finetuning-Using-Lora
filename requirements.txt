@@ -1,0 +1,8 @@
+jsonlines
+datasets
+transformers
+peft
+trl
+bitsandbytes
+accelerate
+tensorboard
